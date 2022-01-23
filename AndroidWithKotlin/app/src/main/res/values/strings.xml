@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CSE224_KOTLIN_2021</string>
+    <string name="selected_item">Selected item:</string>
+    <string name="the_result_string">The result text is : "%1$s"</string>
+    <string name="waiting_for_result">Waiting for result</string>
+    <string name="enter_a_text">Enter a text</string>
+    <string name="send_result">Send Result</string>
+    <string name="get_result">Get Result</string>
+    <string name="title_activity_alert_dialog_example">AlertDialogExample</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
